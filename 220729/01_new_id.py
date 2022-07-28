@@ -29,7 +29,6 @@
 def solution(new_id):
     temp1 = ""
     temp2 = ""
-    flag = 0
 
     # 1단계
     temp2 = new_id.lower()
